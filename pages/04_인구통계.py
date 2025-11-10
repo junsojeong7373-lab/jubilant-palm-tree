@@ -73,3 +73,7 @@ if uploaded_file is not None:
 
 else:
     st.warning("📂 CSV 파일을 업로드하면 그래프가 표시됩니다.")
+    streamlit
+pandas
+plotly
+
